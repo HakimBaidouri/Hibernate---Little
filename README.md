@@ -52,9 +52,9 @@ hibernate---Little/ ├── src/ │ └── main/ │ ├── java/ │ �
 
   This will:
       
-      *   Insert a sample User into the database
+      -Insert a sample User into the database
           
-      *   Fetch and display all users
+      -Fetch and display all users
         
 
 ✅ What You’ll Learn
