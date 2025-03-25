@@ -28,7 +28,29 @@ This project is intended for Java developers who want to:
 
 ## 🗂️ Project Structure
 
-hibernate---Little/ ├── src/ │ └── main/ │ ├── java/ │ │ └── com/example/ │ │ ├── User.java │ │ ├── Main.java │ │ └── HibernateUtil.java │ └── resources/ │ └── .env ├── pom.xml └── README.md
+hibernate-fundamentals/
+
+├── src/
+
+│ └── main/
+
+│ ├── java/
+
+│ │ └── com/example/
+
+│ │ ├── User.java
+
+│ │ ├── Main.java
+
+│ │ └── HibernateUtil.java
+
+│ └── resources/
+
+│ └── .env
+
+├── pom.xml
+
+└── README.md
 
 ---
 
